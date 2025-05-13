@@ -1,1 +1,1 @@
-
+I'm a first year MS student from [School of CIC](https://cic.tju.edu.cn/), [Tianjing University](https://www.tju.edu.cn/). My research interest includes knowledge graph reasoning, ontology learning, and LLM reasoning.
